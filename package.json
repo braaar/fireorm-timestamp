@@ -1,0 +1,13 @@
+{
+  "name": "fireorm-timestamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/braaar/fireorm-timestamp.git",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@google-cloud/firestore": "^4.15.1",
+    "fireorm": "^0.23.0",
+    "typescript": "^4.4.3"
+  }
+}
